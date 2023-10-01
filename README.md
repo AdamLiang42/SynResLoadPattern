@@ -9,7 +9,7 @@ Our released dataset *`SynResLoadPattern`*, comprises synthetic residential load
 These residential load pattern profiles were generated using our proposed RLP-GAN framework, trained on a real-world dataset obtained from the Pecan Street database. This original training set contains hourly load recordings of 417 households across the span of an entire year, from Jan. 1, 2017, to Dec. 31, 2017, which were normalized to capture a wide range of daily load patterns and consumption behaviors.
 
 ## Dataset Location
-The dataset is located under the following directory: [SynResLoadPattern](./SynResLoadPattern/SynResLoadPattern.csv)
+The dataset is located under the following directory: [SynResLoadPattern](https://github.com/AdamLiang42/SynResLoadPattern/tree/main/SynResLoadPattern)
 
 ## Publications:
 <!-- Welcome to cite our publications on this project. -->
