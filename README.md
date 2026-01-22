@@ -37,7 +37,7 @@ These residential load pattern profiles were generated using our proposed RLP-GA
 ## 📝 Citation & Paper
 If you find this dataset or framework useful, please cite our paper:
 
-**X. Liang, Z. Wang and H. Wang, "Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method," in *IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1-13, 2024.**
+**X. Liang and H. Wang, "Learning and Generating Diverse Residential Load Patterns Using GAN With Weakly-Supervised Training and Weight Selection," in *IEEE Transactions on Consumer Electronics*, vol. 71, pp. 2837-2848, 2025.**
 
 - **IEEE Xplore:** [View Paper](https://ieeexplore.ieee.org/abstract/document/10973292)
 - **ArXiv:** [arXiv:2410.15379](https://arxiv.org/abs/2504.14300)
