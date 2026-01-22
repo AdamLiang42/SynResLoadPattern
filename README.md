@@ -1,4 +1,5 @@
 # SynResLoadPattern
+[![Paper](https://img.shields.io/badge/Paper-IEEE_TCE-blue)](https://ieeexplore.ieee.org/abstract/document/10973292) [![arXiv](https://img.shields.io/badge/Paper-arXiv-B31B1B)](https://arxiv.org/abs/2504.14300)
 
 Our released dataset *`SynResLoadPattern`*, comprises synthetic residential load patterns that effectively mirror the temporal dependencies and distribution characteristics found in the real-world training data. Providing a vast, diverse, and high-fidelity set of load patterns. This dataset is intended to be a valuable resource for researchers and practitioners for comprehensive analysis, simulation, and exploration in the domain of residential energy consumption.
 
@@ -33,9 +34,27 @@ These residential load pattern profiles were generated using our proposed RLP-GA
 
 - The data after clustering is located under the following directory: [SynResLoadPattern](https://github.com/AdamLiang42/SynResLoadPattern/tree/main/SynResLoadPatternClustered)
 
-## Publications:
-<!-- Welcome to cite our publications on this project. -->
-TBD
+## 📝 Citation & Paper
+If you find this dataset or framework useful, please cite our paper:
+
+**X. Liang, Z. Wang and H. Wang, "Synthetic Data Generation for Residential Load Patterns via Recurrent GAN and Ensemble Method," in *IEEE Transactions on Instrumentation and Measurement*, vol. 73, pp. 1-13, 2024.**
+
+- **IEEE Xplore:** [View Paper](https://ieeexplore.ieee.org/abstract/document/10973292)
+- **ArXiv:** [arXiv:2410.15379](https://arxiv.org/abs/2504.14300)
+
+**BibTeX:**
+```bibtex
+@ARTICLE{10973292,
+  author={Liang, Xinyu and Wang, Hao},
+  journal={IEEE Transactions on Consumer Electronics}, 
+  title={Learning and Generating Diverse Residential Load Patterns Using GAN With Weakly-Supervised Training and Weight Selection}, 
+  year={2025},
+  volume={71},
+  number={2},
+  pages={2837-2848},
+  keywords={Load modeling;Data collection;Electricity;Training;Generative adversarial networks;Metadata;Scalability;Adaptation models;Computational modeling;Benchmark testing;Smart meters;residential load data;deep learning;generative adversarial network},
+  doi={10.1109/TCE.2025.3563272}}
+```
 
 
 ## Acknowledgments:
