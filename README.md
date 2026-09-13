@@ -3,6 +3,20 @@
 
 Our released dataset *`SynResLoadPattern`*, comprises synthetic residential load patterns that effectively mirror the temporal dependencies and distribution characteristics found in the real-world training data. Providing a vast, diverse, and high-fidelity set of load patterns. This dataset is intended to be a valuable resource for researchers and practitioners for comprehensive analysis, simulation, and exploration in the domain of residential energy consumption.
 
+## Download
+
+**[Download the complete dataset ZIP](https://github.com/AdamLiang42/SynResLoadPattern/releases/latest/download/SynResLoadPattern.zip)**
+
+The ZIP includes all 1,000,000 daily load profiles at hourly resolution, the clustered NumPy data,
+the example notebook, figures, this README, and the license. Extract it before
+opening `dataset.ipynb` so the relative dataset paths work.
+
+For reproducible experiments, use the [v1.0.0 release](https://github.com/AdamLiang42/SynResLoadPattern/releases/tag/v1.0.0).
+Each release includes SHA-256 checksums to verify the downloaded files.
+
+[Usage statistics](https://github.com/AdamLiang42/SynResLoadPattern/tree/traffic-data)
+are archived daily; release ZIP downloads, repository clones, and views are reported separately.
+
 ## Data Description
 *`SynResLoadPattern`* is comprised of 1,000,000 synthetic residential load pattern profiles, each of which denotes the normalized hourly electricity consumption within a day, with values ranging from 0 to 1. To distill valuable insights from this dataset and discern underlying consumption patterns, we applied clustering techniques. This approach aids in classifying these profiles into cohesive clusters, illuminating distinct residential energy consumption behaviors. For an in-depth exploration of our clustering methodologies and visualization, please consult [dataset.ipynb](https://github.com/AdamLiang42/SynResLoadPattern/tree/main/dataset.ipynb).
 
